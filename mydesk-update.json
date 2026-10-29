@@ -1,7 +1,7 @@
 {
   "version": "1.0.7",
   "versionCode": 8,
-  "releaseNotes": "Android: descarrega o APK automaticamente e abre o instalador. Codigo no GitHub.",
+  "releaseNotes": "PC: instalador Windows e auto-update.\nAndroid: APK com download automatico na app.\nAmbos publicados neste repo GitHub.",
   "pc": {
     "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.7/MyDesk-Setup-1.0.7.exe",
     "setupUrl": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.7/MyDesk-Setup-1.0.7.exe"
