@@ -1,0 +1,12 @@
+{
+  "version": "1.0.5",
+  "versionCode": 6,
+  "releaseNotes": "Estados TG Work, despesas, perfil, verificação de atualizações.",
+  "pc": {
+    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.5/MyDesk-Setup-1.0.5.exe",
+    "setupUrl": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.5/MyDesk-Setup-1.0.5.exe"
+  },
+  "android": {
+    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.5/MyDesk-1.0.5.apk"
+  }
+}
