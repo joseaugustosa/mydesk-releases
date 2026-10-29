@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
-  "releaseNotes": "Atualizacoes via repo publico mydesk-releases; versao visivel e popup de update.",
+  "version": "1.0.7",
+  "versionCode": 8,
+  "releaseNotes": "Android: descarrega o APK automaticamente e abre o instalador. Codigo no GitHub.",
   "pc": {
-    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.6/MyDesk-Setup-1.0.6.exe",
-    "setupUrl": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.6/MyDesk-Setup-1.0.6.exe"
+    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.7/MyDesk-Setup-1.0.7.exe",
+    "setupUrl": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.7/MyDesk-Setup-1.0.7.exe"
   },
   "android": {
-    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.6/MyDesk-1.0.6.apk"
+    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.7/MyDesk-1.0.7.apk"
   }
 }
