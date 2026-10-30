@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
-  "versionCode": 12,
-  "releaseNotes": "Correcao: download APK (thread UI + redirects GitHub).\nDefinicoes mostram versao real do APK instalado.",
+  "version": "1.0.12",
+  "versionCode": 13,
+  "releaseNotes": "Analise: graficos alinhados com resumo (local + TG IDE), fix Electron.\nWindows: fechar app e instalar update corretamente.",
   "pc": {
-    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.11/MyDesk-Setup-1.0.11.exe",
-    "setupUrl": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.11/MyDesk-Setup-1.0.11.exe"
+    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.12/MyDesk-Setup-1.0.12.exe",
+    "setupUrl": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.12/MyDesk-Setup-1.0.12.exe"
   },
   "android": {
-    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.11/MyDesk-1.0.11.apk"
+    "url": "https://github.com/joseaugustosa/mydesk-releases/releases/download/v1.0.12/MyDesk-1.0.12.apk"
   }
 }
